@@ -41,7 +41,7 @@ You can also explore the WordPress work from our teams at **[WPDevelopers](https
 
 My [personal website](https://ar.bd/) brings together my projects and writing. Built with Astro and hosted on xCloud, it also exposes a public, read-only MCP server at `https://ar.bd/mcp` so assistants can explore the same published information.
 
-[Explore the website source](https://github.com/Asif2BD/ar-bd) · [Browse the project collection](https://ar.bd/work/)
+[Browse the project collection](https://ar.bd/work/)
 
 ## What I care about
 
