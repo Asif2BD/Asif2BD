@@ -23,9 +23,15 @@ My current focus is making WordPress work naturally with AI: practical MCP integ
 | Project | What it helps you do |
 | --- | --- |
 | **[WordPress Publishing Skill](https://github.com/Asif2BD/WordPress-Publishing-Skill-For-Claude)** | Turn Markdown and HTML into Gutenberg content and publish through the WordPress REST API. |
-| **[Umami MCP](https://github.com/Asif2BD/umami-mcp)** | Explore analytics and manage Umami websites from an MCP client. |
-| **[AI Scan CLI](https://github.com/Asif2BD/aiscan-cli)** | Check how ready a website is for AI agents from the terminal. |
-| **[xCloud Docker Deploy Skill](https://github.com/Asif2BD/xCloud-Docker-Deploy-Skill)** | Prepare applications for native or Docker deployment on xCloud. |
+| **[JARVIS Mission Control for OpenClaw](https://github.com/Asif2BD/JARVIS-Mission-Control-OpenClaw)** | Coordinate AI agents and human collaborators through a Git-based command center. |
+| **[Alo — Server Probe](https://github.com/Asif2BD/Alo)** | Inspect hosting-server information with a lightweight PHP server probe. |
+
+### From our WordPress teams
+
+| Project | What it helps you do |
+| --- | --- |
+| **[Disable Comments](https://github.com/WPDevelopers/disable-comments)** | Manage and disable comments in WordPress. |
+| **[Essential Addons for Elementor](https://github.com/WPDevelopers/essential-addons-for-elementor-lite)** | Build pages with an extended library of Elementor elements. |
 
 You can also explore the WordPress work from our teams at **[WPDevelopers](https://github.com/WPDevelopers)** and **[xCloudDev](https://github.com/xCloudDev)**.
 
