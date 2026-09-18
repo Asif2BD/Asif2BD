@@ -1,22 +1,24 @@
 # M Asif Rahman
 
-### Building the next chapter of WordPress.
+### Always curious. Always building.
 
-I'm an entrepreneur, investor, and WordPress builder with 22+ years in the ecosystem. My work spans **WPDeveloper**, **xCloud**, and a growing set of tools that connect WordPress with AI.
+Founder of **[WPDeveloper](https://wpdeveloper.com/)** and **[xCloud](https://xcloud.host/)**. Chairman of **[Startise](https://startise.com/)**.
 
-I care about a simple outcome: people should be able to build, manage, and improve their websites while keeping control of their content and platform.
+I've been building for the web since starting ARCom in 2004. That journey runs through WordPress, SaaS, Shopify, investing, and now AI agents. I'm interested in what these tools can actually do for people, and in building useful products with teams who care about them.
 
-[Website](https://asif.im) · [LinkedIn](https://www.linkedin.com/in/asif2bd/) · [X](https://x.com/Asif2BD)
+**[AR.bd — my website](https://ar.bd/)** · [Explore my work](https://ar.bd/work/) · [Writing](https://ar.bd/writing/) · [LinkedIn](https://www.linkedin.com/in/asif2bd/) · [X](https://x.com/Asif2BD)
 
 ## What I'm building
 
 | Product | Focus |
 | --- | --- |
 | **[WPDeveloper](https://wpdeveloper.com/)** | WordPress products for creating and growing websites. |
-| **[xCloud](https://xcloud.host/)** | Hosting, deployment, and server management. |
-| **[xSpeed Cache](https://xspeedcache.com/)** | WordPress caching and performance optimization, with MCP access for AI assistants. |
+| **[xCloud](https://xcloud.host/)** | Infrastructure for websites and AI agents, with MCP controls and reusable skills. |
+| **[xSpeed Cache](https://xspeedcache.com/)** | Making WordPress faster with help from your AI agent. |
+| **[AIscan](https://aiscan.site/)** | Understanding what AI can read on a website and how to improve it. |
+| **[Instapect](https://instapect.com/)** | Instagram insights from public posts. |
 
-My current focus is making WordPress work naturally with AI: practical MCP integrations, reusable agent skills, and a design-to-Gutenberg workflow that keeps pages editable inside WordPress. The conversion workflow is still in development; visual fidelity and real editor usability are the two things I'm testing most closely.
+Alongside these products, I'm developing a design-to-Gutenberg workflow that keeps converted pages editable in WordPress. It's still in development; visual fidelity and real editor usability are the two things I'm testing most closely.
 
 ## Public projects
 
@@ -35,6 +37,12 @@ My current focus is making WordPress work naturally with AI: practical MCP integ
 
 You can also explore the WordPress work from our teams at **[WPDevelopers](https://github.com/WPDevelopers)** and **[xCloudDev](https://github.com/xCloudDev)**.
 
+## AR.bd: built for people and agents
+
+My [personal website](https://ar.bd/) brings together my projects and writing. Built with Astro and hosted on xCloud, it also exposes a public, read-only MCP server at `https://ar.bd/mcp` so assistants can explore the same published information.
+
+[Explore the website source](https://github.com/Asif2BD/ar-bd) · [Browse the project collection](https://ar.bd/work/)
+
 ## What I care about
 
 - **WordPress as a foundation.** New workflows should strengthen the platform people already use.
@@ -42,4 +50,4 @@ You can also explore the WordPress work from our teams at **[WPDevelopers](https
 - **Ownership and editability.** A generated page should remain understandable and maintainable after the first demo.
 - **Building with others.** I'm interested in practical conversations about WordPress, MCP, hosting, performance, and product building.
 
-For project feedback, open an issue in the relevant repository. For a broader conversation, find me on [LinkedIn](https://www.linkedin.com/in/asif2bd/) or [X](https://x.com/Asif2BD).
+For project feedback, open an issue in the relevant repository. For a broader conversation, visit [AR.bd](https://ar.bd/contact-me/) or find me on [LinkedIn](https://www.linkedin.com/in/asif2bd/) or [X](https://x.com/Asif2BD).
